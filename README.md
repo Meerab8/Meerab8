@@ -6,7 +6,7 @@
 </p>
 
 <p style="font-family: 'italic_font';">
-  I'm Meerab Zafar, a passionate Full-stack Developer with over 3 years of experience building and maintaining scalable web applications. I specialize in **Ruby on Rails**, **ReactJS**, **Next.js**, and cloud technologies like **AWS**. My journey has focused on delivering high-performance applications with seamless user experiences. I'm constantly learning and eager to tackle new challenges in software development. Let's connect and collaborate on something impactful! 🚀
+  I'm a Full-stack Developer with over 3 years of experience building and maintaining scalable web applications. I specialize in **Ruby on Rails**, **ReactJS**, **Next.js**, and cloud technologies like **AWS**. My journey has focused on delivering high-performance applications with seamless user experiences. I'm constantly learning and eager to tackle new challenges in software development. Let's connect and collaborate on something impactful! 🚀
 </p>
 
 ---
