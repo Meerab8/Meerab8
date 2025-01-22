@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" height="20"/>
   <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=plastic&logo=react&logoColor=white" alt="ReactJS" height="20"/>
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white" alt="Next.js" height="20"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white" alt="Node.js" height="20"/>
 </p>
 
 ### Cloud & Database Technologies:
