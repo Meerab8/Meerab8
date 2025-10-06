@@ -14,7 +14,7 @@
 ## 🤝🏻 You can find me on
 <br>
 <p align="center">
-  <a href="mailto:meerab.zafar00@gmail.com">
+  <a href="mailto:meerab.zdev@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="23" style="margin-right: 10px;"/>
   </a>
   <a href="https://github.com/Meerab8">
